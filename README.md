@@ -8,10 +8,8 @@ The JS To-Do List is a simple web application that allows you to manage your tas
 
 - **Add Tasks**: Easily add new tasks to your to-do list.
 - **Edit Tasks**: Modify task details or update their descriptions.
-- **Mark as Completed**: Check off completed tasks to keep track of your progress.
 - **Delete Tasks**: Remove tasks that you no longer need.
 - **Local Storage**: Your to-do list is saved in local storage, so your tasks persist across sessions.
-- **Responsive Design**: The application is designed to work on various devices and screen sizes.
 
 ## How to Use
 
