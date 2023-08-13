@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or suggestions, please contact [dp0689@srmist.edu.in](mailto:your@email.com).
+For any inquiries or suggestions, please contact [dp0689@srmist.edu.in](mailto:dp0689@srmist.edu.in).
 
 Contributions are welcome! If you'd like to improve the project, feel free to submit pull requests or create issues.
 
